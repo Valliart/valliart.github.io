@@ -1,0 +1,50 @@
+<!doctype html>
+
+<html>
+<head>
+	<title>Carrot cats</title>
+		<meta charset="utf-8" />
+		<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="keywords" content="HTML,carrots,cats">
+</head>
+	<body>
+
+		<h1>cats</h1>
+		<h2>cats with carrots</h2>
+
+		<p>cats with carrots are superior!</p>
+		<p>more text about <br> cats</p>
+
+		<br> <strong>this is bolded because it is important</strong>
+		<br> <u>another point</u>
+		<br> <em>this is in italics how fun</em>
+
+		<br> <a href="https://foxsanantonio.com/resources/media/7a06231c-9427-4146-8882-e54365bdbdfd-medium16x9_Halloween.jpg?1582063021179/">
+			<button>Click me to find out why</button>
+		</a>
+
+		<ul>
+			<li>this is one item</li>
+			<li>this is the second item</li>
+			<li>this is the third item</li>
+		</ul>
+
+			<p> some other cats may be as superior such as the cat with a banana hat</p>
+			<img src="catwithbananahat">
+
+			<imgsrc=https://ae01.alicdn.com/kf/S07023c6bcff04238a6d315c7588a09f0V/Cat-Hat-Japanese-Non-Woven-Pet-Creativity-Cute-Selling-Cute-Fruit-Head-Cover-Cat-Head-Scarf.jpg width=200 height=400/>
+
+		<ol>
+			<li>one</li>
+			<li>two</li>
+			<li>three</li>
+		</ol>
+
+	</body>
+</html>
+
+
+
+
+	
